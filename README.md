@@ -16,7 +16,7 @@ Required by PlatEMO
 
 ## Installation
 
-Users can add this code into the 'PlateEMO/Algorithms/Multi-objective optimization'. 
+Users can add this code into the 'PlatEMO/Algorithms/Multi-objective optimization'. 
 
 ## Contact
 
